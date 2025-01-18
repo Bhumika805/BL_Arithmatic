@@ -3,3 +3,4 @@ in task 2 add class in feature
 add functionality = addition
 add functionality = subtraction
 add functionality = multiplicaton
+add functionality = division
